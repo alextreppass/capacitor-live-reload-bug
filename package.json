@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^5.7.2",
-    "browser-sync": "^3.0.2",
+    "browser-sync": "^3.0.4",
     "typescript": "^5.4.2"
   },
   "author": "",
